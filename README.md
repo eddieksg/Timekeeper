@@ -48,3 +48,11 @@ MIT. See [LICENSE](LICENSE).
 ## Screenshot
 
 ![TimeKeeper desktop application](docs/screenshot.png)
+
+## Download for Windows
+
+Download TimeKeeper.exe from the
+[Releases page](https://github.com/eddieksg/timekeeper/releases).
+
+Python is not required to run the executable.
+Run as administrator when using the manual Windows clock adjustment.
