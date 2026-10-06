@@ -44,3 +44,7 @@ The tests use fake NTP packets and do not alter the machine clock or contact ext
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Screenshot
+
+![TimeKeeper desktop application](docs/screenshot.png)
